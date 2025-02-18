@@ -9,7 +9,7 @@
 # @OfficialWebsite    https://cloud.magicweb.cloud
 # @howtouse          主界面添加本配置[覆写]，然后使用内置的[SubStore]添加机场，之后去[订阅管理]，在配置的[编辑信息]中绑定机场订阅，开启系统代理即可使用
 # @Thanks            @blackmatrix7, @Fndroid, @Anti, @Orz-3, @Koolson, @soffchen, @ACL4SSR, @Cats-Team
-# @ConfigVersion     1.0.18
+# @ConfigVersion     1.0.0
 #==========================================
 
 proxy-groups:
