@@ -6,7 +6,7 @@
 # @Feedback          💡请通过邮件反馈问题[其它方式一概无视]：admin@yesiamai.𝐜𝐨𝐦 💡
 # @UpdateTime        2025/02/17 18:28 UTC/GMT +8
 # @Function          支持手动选择、自动测速、广告屏蔽、兜底分流、按国家分组节点、策略图标等  
-# @OfficialWebsite    https://cloud.magicweb.cloud/
+# @OfficialWebsite    https://cloud.magicweb.cloud
 # @howtouse          主界面添加本配置[覆写]，然后使用内置的[SubStore]添加机场，之后去[订阅管理]，在配置的[编辑信息]中绑定机场订阅，开启系统代理即可使用
 # @Thanks            @blackmatrix7, @Fndroid, @Anti, @Orz-3, @Koolson, @soffchen, @ACL4SSR, @Cats-Team
 # @ConfigVersion     1.0.18
